@@ -16,8 +16,8 @@ What words are used most frequently by male and by female characters? <br>
 What words are used most frequently by younger and older characters? <br>
 How are slang words used? By which characters? How old are they?
 
-**4. How to explore the topic and address the research question:**
-The American series Modern Family features multiple characters, male and female, of different ages. The series has 11 seasons which allows us to look at the characters’ language use over time (in different seasons) as well, which may provide valuable insights, especially in the case of the development of the younger characters. The lines and the word-usage of different characters could  be examined. The most-frequently occurring words could be collected and compared and contrasted according to variables, such as character, age and gender. <br>
+**4. How to explore the topic and address the research question:** <br>
+The American series *Modern Family* features multiple characters, male and female, of different ages. The series has 11 seasons which allows us to look at the characters’ language use over time (in different seasons) as well, which may provide valuable insights, especially in the case of the development of the younger characters. The lines and the word-usage of different characters could  be examined. The most-frequently occurring words could be collected and compared and contrasted according to variables, such as character, age and gender. <br>
 When drawing conclusions we need to be careful and consider the limitations of the research, such as the nature of the language of the series. First, the data consists of scripted and not naturally-occurring conversations, hence, we cannot make generalizations easily. Second, the genre of the series, i. e. sitcom, impacts and restricts language use as well (e.g. low number of swearwords).
 
 **5. Data:** <br>
