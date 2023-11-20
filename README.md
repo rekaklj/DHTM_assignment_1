@@ -5,7 +5,7 @@
 I would like to investigate the language use of the characters of the American series *Modern Family* (https://www.imdb.com/title/tt1442437/). I intend to focus on the factors of age and gender impacting language use.
 
 **2. Context:** <br>
-Linguistic variation has been observed across age and gender, among other features (Ehrlich et al. 2017, Eckert 2017). For example, younger speakers tend to use more slang words than older speakers (Barbieri 2008) or that women tend to use more emotive words than men.
+Linguistic variation has been observed across age and gender, among other features (Ehrlich et al. 2017, Eckert 2017). For example, younger speakers tend to use more slang words than older speakers (Barbieri 2008), or that women tend to use more emotive words than men.
 
 **3. Research questions:** <br>
 Main question: <br>
